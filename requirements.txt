@@ -1,0 +1,17 @@
+langchain
+python-dotenv
+langchain_community
+pypdf
+bs4
+arxiv
+pymupdf
+langchain-text-splitters
+langchain-openai
+sentence-transformers
+langchain_huggingface
+faiss-cpu
+langserve
+uvicorn
+fastapi
+streamlit
+langchain-ollama
